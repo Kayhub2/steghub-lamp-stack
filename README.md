@@ -233,7 +233,7 @@ After reloading the Apache, go back to the web browser and revist our directory:
 http://100.58.104.78/kaylamp/info.php
 ```
 
-![project code](images/project%20code.png)
+![newphp info](images/newphp%20info.png)
 
 ---
 
